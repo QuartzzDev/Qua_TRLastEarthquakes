@@ -1,4 +1,4 @@
-# Qua Last Earthquakes in Türkiye
+# Qua Last Earthquakes in Turkey
 
 • Bütün Bilgiler Boğaziçi Üniversitesi Rektörlüğü’ne ait olup, Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Bölgesel Deprem-Tsunami İzleme Ve Değerlendirme Merkezi'nin Kendi Sitesinden Temin Edilmektedir .                                        
 
