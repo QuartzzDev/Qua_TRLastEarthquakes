@@ -6,5 +6,5 @@
 
 ![image](https://github.com/QuartzzDev/Qua_TRLastEarthquakes/assets/69876083/9c7452af-0f5e-4581-bd22-d81097387332)
 
-Not : Yukarıdaki Örnek , Proje Yayınlanırken Meydana Gelen Bir Depremden Örnek Olarak Verilmiştir , Ticari Hiçbir Amacı Bulunmamaktadır.
+Not : Yukarıdaki Örnek , Proje Yayınlanırken Meydana Gelen Bir Depremden Örnek Olarak Verilmiştir , Projenin Ticari Hiçbir Amacı Bulunmamaktadır.
 
